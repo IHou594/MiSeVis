@@ -1,5 +1,6 @@
 # MiSeVis
 Overview
+
 This pipeline not only outputs the contents of an inputted sequence and structure file but also allows the user to visualize 3D models of a PDB file. The user may also manipulate the model’s parameters and analyze individual amino acids through the generated model. The user may also look for drug matches in the DrugBank database based on the selection of the PDB visualization file.
 Retrieve Sequence File
 On the Retrieve Sequence Tab there are two options for file input: a Sequence file and a Structure file. The Sequence File tab has a button that is accessed with the “Click to Show Upload Option” button which allows the user to input a file from the computer’s local files. However, the file upload must be in the .FASTA format in order to properly show the syntax of the inputted FASTA file. You may click on the Clear Sequence button to clear the sequence shown or the Clear PDB button to get rid of the output of the Structure File tab. The Structure File tab works very similarly to the Sequence File tab with the exception of the inputted file type. The user-uploaded file must be a Protein Data Bank file instead of a FASTA file.
