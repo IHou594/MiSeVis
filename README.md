@@ -18,4 +18,4 @@ Here, we developed a convenient platform **MiSeVis** that allow users to
 </p>
 
 ## Citation
-Please check our paper "Computational Identification of Ovarian Cancer Candidate Driver Genes with Mutated Protein Structures Caused by Missense Variants" for more details.
+Please check my paper titled **Computational Identification of Ovarian Cancer Candidate Driver Genes with Mutated Protein Structures Caused by Missense Variants** for more details.
