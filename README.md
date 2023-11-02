@@ -2,7 +2,7 @@
 ## Overview
 **Ovarian cancer** detection remains elusive due to a lack of screening tests and non-specific symptoms. A crucial factor in cancer development is **DNA sequence mutations**, particularly missense mutations that can alter protein structure, thereby potentially initiating carcinogenesis. Advances in sequencing technology have paved the way for detailed analysis of individual genetic profiles, spotlighting genes with missense mutations as prospective biomarkers. Such biomarkers are pivotal for personalizing cancer therapies, as they can guide medication choices, ensuring efficacy and minimizing detrimental effects. Here, we developed a convenient platform [MiSeVis](https://fyan.shinyapps.io/ian_shiny/). It  not only outputs the contents of an inputted sequence and structure file but also allows the user to visualize 3D models of a PDB file.
 <p align="center">
-<img src="Figure 1.png">
+<img src="Figure1.png">
 </p>
 **Workflow**. 
 
